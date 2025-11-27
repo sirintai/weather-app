@@ -1,6 +1,6 @@
 # weather-app
 
-**PROMPT TO PASTE IN CURSOR:**
+**PROMPT TO PASTE IN CURSOR:*
 
 > **You are an expert full-stack engineer. Build me a fully functioning, modern Weather App using React + Vite + TailwindCSS.
 > Use clean folder structure and write production-ready code.
